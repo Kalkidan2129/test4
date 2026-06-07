@@ -3,53 +3,54 @@
 
 ## Project Summary
 
-This project developed an interactive Power BI dashboard analyzing US school shooting incidents from 1990-2020. The dashboard visualizes percentage fatalities and year-over-year trends across multiple dimensions including month, category, school type, and states to support data-driven decision making for school security enhancements.
+School is an educational institution designed to provide learning spaces and learning environments for the teaching of students under the direction of teachers.
+
+    Children, teenager and adults find themselves in these places because they are filled with the desire to learn in order to impact our world. Unfortunately, we have noticed that these places of learning are sometimes turning into fields of violence that destroy lives. School Shooting has become recurring events in America. Having a deeper idea of this situation will allow us to make practical arrangements to better understand them and save lives.
+
+    With school shooting being a major issue in our nation, let’s in this Project analyze the Percentage Fatalities and Year over Year by Month, Category, School type and states in the United States from 1990 to 2020. This will enable a better approach in making decision on how to enhance school security system in US.
 
 ---
 
 ## Business Problem
 
-School shootings have become recurring tragic events in American educational institutions, destroying lives and threatening the safety of learning environments. Educational institutions and policymakers lack comprehensive data visualization tools to understand patterns and make informed decisions about security system improvements.
+Organizations need clear analytics outputs that transform raw project data into actionable insights for better decision-making.
 
 ---
 
 ## Objective
 
-- Analyze percentage fatalities and year-over-year trends in school shooting incidents across the United States from 1990-2020
-- Create interactive visualizations segmented by month, category, school type, and geographic states for comprehensive pattern analysis
-- Develop actionable insights to inform decision-making processes for enhancing school security systems nationwide
+- Analyze datasets and build machine learning workflows to identify predictive patterns.
+- Prepare and transform data for model training, evaluation, and forecasting tasks.
+- Present AI and machine learning insights in a professional portfolio-ready format.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- DAX (Data Analysis Expressions)
-- Excel
+- Python
+- Pandas
+- Machine Learning
+- Forecasting
 - Data Analytics
-- ETL Processes
-- Data Warehousing
-- Data Mining
-- Data Visualization
 
 ---
 
 ## Project Workflow
 
-- Load and import Excel data containing school shooting incident records into Power BI Desktop
-- Transform and clean data by handling null values in school type and category columns, and prepare datasets for analysis
-- Create calendar table and establish date relationships to enable time-based analysis and reporting
-- Develop DAX measures for calculating total fatalities, percentage fatalities, and other key metrics
-- Build interactive dashboard with slicers, visual elements, and professional formatting including logos and titles
+- Prepared and cleaned the dataset for machine learning analysis.
+- Explored data patterns and feature relationships.
+- Built predictive or analytical models using Python-based workflows.
+- Evaluated model performance and analytical outputs.
+- Documented findings and business recommendations.
 
 ---
 
 ## Key Insights
 
-- Analysis reveals temporal patterns in school shooting incidents that vary significantly by month and academic calendar periods
-- Different school categories and types show distinct vulnerability profiles requiring targeted security approaches
-- Geographic distribution indicates regional variations in incident frequency and severity across different states
-- Year-over-year comparisons demonstrate whether security interventions and policy changes have measurable impact on incident trends
+- Used SQL queries to extract and analyze structured business data.
+- Joined and transformed relational datasets to support reporting needs.
+- Identified patterns from database records for business decision-making.
+- Presented query-driven insights in a recruiter-friendly analytics format.
 
 ---
 
@@ -61,9 +62,9 @@ School shootings have become recurring tragic events in American educational ins
 
 ## Business Impact
 
-- Provides educational institutions and policymakers with data-driven insights to allocate security resources more effectively
-- Enables evidence-based decision making for implementing preventive measures and emergency response protocols
-- Supports advocacy efforts for policy changes by presenting clear statistical evidence of the scope and patterns of school violence
+- Supports predictive analytics and data-driven forecasting workflows.
+- Improves business visibility through AI-driven trend and pattern analysis.
+- Demonstrates practical machine learning and predictive analytics skills.
 
 ---
 

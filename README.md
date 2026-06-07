@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst passionate about transforming complex datasets into actionable insights through tools like Power BI, ETL processes, and data visualization. My work focuses on uncovering trends and patterns in critical social issues, enabling stakeholders to make informed decisions that drive meaningful impact. With a strong foundation in data analytics, reporting, and business intelligence, I specialize in building interactive dashboards and scalable data solutions to support strategic decision-making across industries.
+This portfolio showcases 1 data analytics and business intelligence projects focused on business intelligence and data analytics. It demonstrates practical experience in transforming raw project work into professional dashboards, analytics solutions, and business-focused reporting outputs.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst passionate about transforming complex datasets into actionab
 
 ## 1. US SCHOOL SHOOTING DASHBOARD
 
-US School Shooting Dashboard analyzes 1990-2020 data to reveal trends in fatalities, YoY patterns, and regional impacts, enabling data-driven strategies to improve school security systems nationwide.
+Developedan interactive Power BI dashboard analyzing US school shooting fatalities by month, category, school type, and state from 1990‑2020 to inform security decisions. Demonstrates data transformation, modeling, and visualization expertise for business intelligence.
 
 <br><br>
 
